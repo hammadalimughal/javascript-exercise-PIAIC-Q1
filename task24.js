@@ -5,3 +5,14 @@
 // • Tests using "and" and "or" operators
 // • Test whether an item is in a array
 // • Test whether an item is not in a array
+let tempArray = ['item1','item2']
+console.log("if('pakistan' == 'karachi')")
+console.log("pakistan" == "karachi")
+console.log("if('Karachi'.toLowerCase() == 'karachi'.toLowerCase())")
+console.log("Karachi".toLowerCase() == "karachi".toLowerCase())
+console.log("if(5 > 6)")
+console.log(5 > 6)
+console.log("if(6 < 7 && typeof(5) == 'number')")
+console.log(6 < 7 && typeof(5) == 'number')
+console.log("if(tempArrat.length > 0)")
+console.log(tempArray.length > 0)
